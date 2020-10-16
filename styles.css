@@ -2,14 +2,12 @@ body
 {
 	margin:0;
     padding:0;
-    
-    width: 716px;
-    height: 1008px;
+    background-color: #f9f8f6;
+
 }
 
 .grid {
     height: 100vh;
-    background-color: #f9f8f6;
 
     display: grid;
     gap: 0.5rem;
